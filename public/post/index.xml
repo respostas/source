@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Respostas</title>
+    <link>https://github.com/respostas/respostas.github.io/post/</link>
+    <description>Recent content in Posts on Respostas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
+    <lastBuildDate>Thu, 06 Jul 2017 17:17:26 -0300</lastBuildDate>
+    
+	<atom:link href="https://github.com/respostas/respostas.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Em contrução</title>
+      <link>https://github.com/respostas/respostas.github.io/2017/07/06/em-contru%C3%A7%C3%A3o/</link>
+      <pubDate>Thu, 06 Jul 2017 17:17:26 -0300</pubDate>
+      
+      <guid>https://github.com/respostas/respostas.github.io/2017/07/06/em-contru%C3%A7%C3%A3o/</guid>
+      <description>Em breve um blog sobre ciência e origem da vida.</description>
+    </item>
+    
+  </channel>
+</rss>
